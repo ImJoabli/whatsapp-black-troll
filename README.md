@@ -8,10 +8,18 @@ Antes de usarla, tener en cuenta las siguientes cosas:
 
 ya con eso puedes probar la App!
 
+# Cómo descargar
+
+- selecciona el archivo apk dentro del repositorio
+- luego descargalo
+
+   y ya!
+  
+
 Última versión: 1.3.4
 
 # Vista previa de la App
-![blossomed](https://github.com/rennpy/pyontheme/assets/158360149/912edfae-c7aa-41b2-81c4-6359261f3a2a)
+![blossomed](https://raw.githubusercontent.com/ImJoabli/whatsapp-black-troll/refs/heads/main/illustration.png)
 
 
 

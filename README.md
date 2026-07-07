@@ -1,16 +1,16 @@
-# Pyoncord-Theme
+# WhatsApp Troll (Black)
 
-Fully-fledged theme made for Pyoncord (themes+ support, custom fonts soon)! 
-- Supports the most recent versions of discord! Also works with some older versions and the youbar (which was removed in 226.6)
-- This is my first new ui theme, but thanks to the help of some amazing people it became even better! (Thank you).
+Aplicación similar a WhatsApp con broma dentro de ella!
 
+Antes de usarla, tener en cuenta las siguientes cosas:
+- poner la app en un lugar de fácil acceso (como al iniciar el celular)
+- lo más probable es que la app no se pueda instalar gracias a Play Protect, la App es completamente segura, por lo que puedes instalarla con tranquilidad
 
-> Credit goes to: <br>
-> Rairof, for helping me make my theme what it is (finding a ton of keys missing in my theme and much more). <br>
-> Moodle, for the current background.
+ya con eso puedes probar la App!
 
+Última versión: 1.3.4
 
-# Preview
+# Vista previa de la App
 ![blossomed](https://github.com/rennpy/pyontheme/assets/158360149/912edfae-c7aa-41b2-81c4-6359261f3a2a)
 
 
